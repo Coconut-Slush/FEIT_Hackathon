@@ -1,0 +1,4 @@
+Client_ID,Client_name,Contact_person,Email,Phone,Address_or_Port,Usual_specs,Notes
+CLI-0001,ABC Wines Pty Ltd,John Smith,john@abcwines.com.au,+61 400 123 456,Melbourne Port,Shiraz 14% low VA,"Regular customer, prefers Nov shipments"
+CLI-0002,Global Bulk Traders,Emily Chen,e.chen@globalbulk.com,+44 7700 987 654,London Gateway,"Cabernet Sauvignon, sustainable",Often requests samples first
+CLI-0003,WineWorld Bottlers,Liam Brown,liam.b@wineworld.com,+1 310 555 7890,Los Angeles,Chardonnay for blending,"New customer, fast decision making"

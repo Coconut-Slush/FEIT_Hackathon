@@ -1,0 +1,4 @@
+Order_ID,Client_ID,Variety,Vintage,Region,Quantity_requested_L,Container_type,Alcohol_%,Special_specs,Delivery_port_or_address,Preferred_delivery_date,Status,Linked_inventory_ID,Notes,Created_at
+ORD-2025-089,CLI-0001,Shiraz,2021,South Australia,50000,Flexitank,14.0,Low VA preferred,Melbourne Port,Nov 2025,Pending,INV-2025-001,Sample sent 15 Sep,2025-09-29
+ORD-2025-090,CLI-0002,Cabernet Sauvignon,2020,Riverland,30000,Tank,13.8,Sustainable,London Gateway,Dec 2025,Confirmed,INV-2025-002,Regular order,2025-09-27
+ORD-2025-091,CLI-0003,Chardonnay,2022,Adelaide Hills,25000,IBC,12.5,For blending,Los Angeles,Oct 2025,Pending,INV-2025-003,New lead,2025-09-28

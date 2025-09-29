@@ -1,0 +1,5 @@
+ID,Variety,Region,Vintage,Quantity_available_L,Container_type,Alcohol_%,Colour,RS_gL,VA_gL,SO2_mgL,Certifications,Notes,Last_updated
+INV-2025-001,Shiraz,South Australia,2021,80000,Flexitank,14.0,Red,2.5,0.45,85,Organic,"Low VA, excellent colour",2025-09-20
+INV-2025-002,Cabernet Sauvignon,Riverland,2020,120000,Tank,13.8,Red,3.0,0.5,90,Vegan,"Rich tannins, good ageing potential",2025-09-25
+INV-2025-003,Chardonnay,Adelaide Hills,2022,60000,IBC,12.5,White,1.8,0.35,70,,"Crisp and clean, suitable for blending",2025-09-27
+INV-2025-004,Sauvignon Blanc,Marlborough,2023,45000,Flexitank,12.0,White,2.2,0.4,65,Sustainable,"Aromatic, vibrant acidity",2025-09-22
